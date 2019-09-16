@@ -1,0 +1,25 @@
+h1{
+  color: #264982;
+  text-align: center;
+  font-family: 'Indie Flower'
+  /*font-family:'Bungee Shade';*/
+}
+h2{
+  text-align: center;
+}
+h3{
+  color: #591111;
+  text-align: center;
+}
+ul {
+  font-family: 'Heebo'
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.wrapper {
+    text-align: center;
+}
