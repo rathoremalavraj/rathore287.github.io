@@ -1,5 +1,10 @@
+body {
+  background-color: black;
+  color: black;
+}
 
 
+}
 
 h1{
   color: #264982;
@@ -11,7 +16,6 @@ h2{
   text-align: center;
 }
 h3{
-  color: #591111;
   text-align: center;
 }
 ul {
